@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Try-On",
+  "description": "Upload your photo and an outfit to see how it looks on you. Our AI seamlessly fits the clothing to your pose, creating a photorealistic virtual try-on experience.",
+  "requestFramePermissions": []
+}
